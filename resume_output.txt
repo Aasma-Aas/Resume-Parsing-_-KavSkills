@@ -1,0 +1,184 @@
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Python, data science, Data Science, Machine Learning, machine learning, Communication, Web Development
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Communication, Python, data science, machine learning, Web Development, Machine Learning, Data Science
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Python, Communication, Web Development, Data Science, machine learning, data science, Machine Learning
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     data science, machine learning, Machine Learning, Communication, Python, Data Science, Web Development
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     machine learning, Python, Web Development, data science, Communication, Data Science, Machine Learning
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Machine Learning, Web Development, Python, machine learning, data science, Communication, Data Science
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Python, Communication, Data Science, machine learning, Machine Learning, data science, Web Development
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Data Science, Communication, data science, Machine Learning, Python, machine learning, Web Development
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     machine learning, Communication, Web Development, Data Science, Machine Learning, Python, data science
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Web Development, data science, Python, Communication, machine learning, Machine Learning, Data Science
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Data Science, Python, Communication, Machine Learning, machine learning, data science, Web Development
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Python, data science, Web Development, Data Science, machine learning, Machine Learning, Communication
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     data science, Python, Communication, Web Development, machine learning, Machine Learning, Data Science
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Data Science, data science, Communication, Python, Machine Learning, machine learning, Web Development
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Data Science, Machine Learning, Communication, data science, Python, machine learning, Web Development
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     data science, Data Science, Machine Learning, Python, Web Development, machine learning, Communication
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Python, Data Science, data science, Machine Learning, Communication, machine learning, Web Development
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Web Development, machine learning, Data Science, data science, Communication, Python, Machine Learning
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Data Science, Web Development, data science, Communication, Python, Machine Learning, machine learning
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Data Science, Web Development, Communication, Machine Learning, data science, machine learning, Python
+Education  University, Communication Technology University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Python, Machine Learning, machine learning, data science, Data Science, Communication, Web Development
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     data science, machine learning, Data Science, Communication, Machine Learning, Python, Web Development
+Education  Communication Technology University, University
+
+Field      Value
+---------  ------------------------------------------------------------------------------------------------------
+Name       Arhamsoft
+Email      aasma.aas.muhammad@gmail.com
+Phone      92304-4099-635
+Skills     Machine Learning, data science, machine learning, Data Science, Communication, Python, Web Development
+Education  Communication Technology University, University
+
