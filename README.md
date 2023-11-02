@@ -8,14 +8,12 @@ NLP for Improved Candidate Matching: We utilize Natural Language Processing (NLP
 Classification of Resumes: The system automatically classifies resumes into the respective directories, categorizing them by job roles. This classification will ensure that resumes are routed to the appropriate teams or departments.
 Efficient Data Storage and Retrieval: Our system can seamlessly integrate with existing HR, allowing for efficient storage, retrieval, and sharing of candidate data. This integration fosters collaboration among HR professionals.
 User-Friendly Interface: To make the solution accessible and user-friendly, we've developed an intuitive interface where users can easily parse resumes within a user-friendly environment.
-![image](https://github.com/Aasma-Aas/Resume-Parsing-_-KavSkills/assets/125131696/52d457bb-977d-428a-84be-19e9806edd1a)
 
 
-Achievement![image](https://github.com/Aasma-Aas/Resume-Parsing-_-KavSkills/assets/125131696/28026538-84eb-4717-9586-18bfafe6dcde)
+Achievement
 
 Our journey in resume parsing has been marked by significant milestones and successes. From conceptualization to implementation, we've achieved key goals that have propelled our project's success such as:
 Improved Efficiency in Resume Handling: By automating the extraction and organization of data from resumes, we've transformed a labor-intensive task into an efficient, automated process. This improvement has significantly reduced the time and resources required for resume handling.
 Reduced Manual Data Entry: Our system eliminates the need for HR professionals to engage in tedious manual data entry. This reduction in manual labor not only saves time but also minimizes data entry errors.
 Case Study or Real-world Results: Our project's success extends beyond the conceptual stage. We have witnessed tangible results in real-world recruitment scenarios, illustrating the project's potential to revolutionize recruitment processes across various industries.
-![image](https://github.com/Aasma-Aas/Resume-Parsing-_-KavSkills/assets/125131696/85a18028-6507-4146-affd-a84e4279b65f)
 
