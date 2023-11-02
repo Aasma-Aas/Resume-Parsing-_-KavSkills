@@ -1,0 +1,46 @@
+{% extends '/layouts/base.html' %}
+{% block title %} Resume table {% endblock %} 
+{% block content %}
+{# SECTION 1 #}
+<section class='banner'>
+  <div class='player-wrapper'>
+  </div>
+  <div class='container customBox pe-0'>
+      <div class='row align-items-center'>
+          <div class='col-lg-7'>
+            <div class='profile_table'>
+                <div class='box-wrap'>
+                    <div class='table-wrap'>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>sr no.</th>
+                                    <th>Name</th>
+                                    <th>phone no.</th>
+                                    <th>Skills</th>
+                                    <th>Category</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% if parsed_data %}
+                                {% for resume in parsed_data %}
+                                <tr>
+                                    <td>{{ loop.index }}</td>
+                                    <td>{{ resume.name }}</td>
+                                    <td>{{ resume.phone }}</td>
+                                    <td>{{ resume.email }}</td>
+                                    <td>{{ resume.category_name }}</td>
+                                </tr> 
+                                {% endfor %}
+                                {% endif %} 
+                            </tbody>
+                        </table>
+                    </div>  
+                </div>
+            </div>
+          </div>
+      </div>
+    </div>
+</section>
+
+{% endblock %}
