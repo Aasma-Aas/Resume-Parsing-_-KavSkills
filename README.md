@@ -1,5 +1,4 @@
-Resume-Parsing-KavSkills
-Let's dive in and explore the innovative world of Resume Parsing!![image](https://github.com/Aasma-Aas/Resume-Parsing-_-KavSkills/assets/125131696/0627e517-9ba8-464d-9dc1-758fcfde39e8)
+![image](https://github.com/Aasma-Aas/Resume-Parsing-_-KavSkills/assets/125131696/0627e517-9ba8-464d-9dc1-758fcfde39e8)
 
 
 Our Resume Parsing project provides a comprehensive solution to improve the recruitment process by automating resume handling and data extraction, overcoming common challenges, creating a user-friendly system and enhancing the way resumes are managed and evaluated. Let‘s explore the key components of our solution:
