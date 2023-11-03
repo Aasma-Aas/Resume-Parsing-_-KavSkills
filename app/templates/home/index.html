@@ -15,8 +15,8 @@
                       </p>
                   </div>
                   <form action = '/index' class='d-flex align-items-center' method="POST" enctype="multipart/form-data">
-                    <div class='ml-2'><input class='theme-btn black-btn' type="file" name="resume" accept=".pdf" /></div>
-                    <div><input class='theme-btn ms-2 my-0 outline-btn' name='upload_btn' type="submit" value="Upload"></div>
+                    <div class='ml-2'><input class='theme-btn black-btn' type="file" name="resume" accept=".pdf, .docx"></div>
+                    <div><input  class='theme-btn ms-2 my-0 outline-btn' type="submit" value="Upload Resume"></div>
                   </form>
               <!-- <form action = "/upload" method = "post" enctype="multipart/form-data">   
                 <input type="file" name="file" />   
@@ -27,7 +27,6 @@
               </div>
               
           </div>
-
           <div class='col-lg-7'>
             <div class='profile_table'>
                 <div class='box-wrap'>
@@ -43,8 +42,9 @@
                                 </tr>
                             </thead>
                             <tbody>
-                              {% if data %}
-                              {% for field, value in data.items() %}
+                              
+                              {% if parsed_data %}
+                              {% for field, value in parsed_data%}
                               <tr>
                                   <td>{{ field }}</td>
                                   <td>{{ value }}</td>
@@ -108,31 +108,49 @@
   <div>
       <div class='container p-5 box_form'>
           <form action = '/index' method='POST' onsubmit="showLoadingIndicator()">
-              <div class='row'>
+              <div class='row justify-content-center'>
                 <div class='col-md-3'>
-                  <select id='choice_select' name='choice_select' class='my-select selectpicker' data-container='body'>
-                    <option>Technical Project Manager</option>
-                    <option>Scrum Master</option>
-                    <option>Python Developer</option>
-                    <option>Software Quality Assurance</option>
-                    <option>Tebleau Developer</option>
-                </select>
+                  <div class='scrap_block'>
+                    <label for="choice_select"></label>
+                    <input class='choice_select' list="cho_select" id="choice_select" name="choice_select" placeholder="Select Job Category" />
+                    <datalist id="cho_select">
+                      <option value="Technical Project Manager">
+                      <option value="Scrum Master">
+                      <option value="Python Developer">
+                      <option value="Software Quality Assurance">
+                      <option value="Tebleau Developer">
+                      <option value="Machine Learning Engineer">
+                      <option value="Data Scientist">
+                      <option value="Data Engineer">
+                      <option value="Accountant">
+                      <option value="Administrator">
+                      <option value="AWS Cloud Engineer">
+                    </datalist>
+                  </div>
                 </div>
                 <div class='col-md-3'>
-                  <select class="target" name='target' aria-label=".form-select-sm example">
-                    <option selected>Choose target links</option>
-                    <option value="1">10</option>
-                    <option value="2">20</option>
-                    <option value="3">2</option>
-                  </select>
+                  <div class='scrap_block'>
+                    <label for="target"></label>
+                    <input class='choice_select' list="target_drop" id="target" name="target" placeholder="Select Target Links" />
+                    <datalist id="target_drop">
+                      <option value="1">
+                      <option value="10">
+                      <option value="20">
+                      <option value="30">
+                    </datalist>
+                  </div>
                 </div>
                 <div class='col-md-3'>
-                  <select class="location" name='location' aria-label=".form-select-sm example">
-                    <option selected>Choose Country</option>
-                    <option value="Lahore">Lahore</option>
-                    <option value="Pakistan">Pakistan</option>
-                    <option value="Lahore">2</option>
-                  </select>
+                  <div class='scrap_block'>
+                    <label for="location"></label>
+                    <input class='choice_select' list="location_drop" id="location" name="location" placeholder="Select Region" />
+                    <datalist id="location_drop">
+                      <option value="Pakistan">
+                      <option value="Lahore">
+                      <option value="Islamabad">
+                      <option value="Karachi">
+                    </datalist>
+                  </div>
                 </div>
                 <div class='col-md-2'><input class='theme-btn orange-btn mt-0' type='submit' name='resume_btn' value='SCRAP RESUME'></div>
               </div>
@@ -158,7 +176,7 @@
             <p>Loading, please wait...</p>
         </div> -->
           {% if message %}
-              <div>{{ message }}</div>  <!-- Display success message here -->
+              <div>{{ message }}</div>
           {% endif %}
         </div>
   </div>
@@ -167,7 +185,6 @@
 
 <script>
     function showLoadingIndicator() {
-        // Show the loading indicator when the form is submitted
         document.getElementById("loader").style.display = "block";
     }
 </script>

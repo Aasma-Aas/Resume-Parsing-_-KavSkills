@@ -88,14 +88,8 @@ class Profiles:
                 download_pdf_option.click()
                 time.sleep(2)
 
-                # Move the downloaded PDF to the folder with a unique name
                 old_pdf_path = os.path.expanduser('~/Downloads/linkedin_profile.pdf')
                 new_pdf_path = os.path.join(folder_name, f'profile_{len(profile_links)}_{int(time.time())}.pdf')
                 os.rename(old_pdf_path, new_pdf_path)
             except Exception as e:
                 print(f"Exception in PDF download: {str(e)}")
-
-# Usage:
-# profiles_scraper = Profiles(username=username, password=password, choice='your_choice', target='target_number', location='desired_location')
-# profiles_scraper.login()
-# profiles_scraper.collect_links()
