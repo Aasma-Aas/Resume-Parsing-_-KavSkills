@@ -7,6 +7,7 @@ This project enhances the recruitment process by automating resume handling. It 
 
 **Key Features**
 <br/>
+<br/>
 **Data Extraction:** Automatically gathers candidate info from LinkedIn profiles and resumes.
 <br/>
 **NLP Matching:** Identifies skills and qualifications, helping match candidates to jobs.
